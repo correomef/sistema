@@ -1,0 +1,230 @@
+
+/* -- helppers --*/
+
+.sombraInteriorSuabe{
+	box-shadow: inset 0 0 38px rgba(0, 0, 0, 0.14);
+}
+
+.tabla {
+	display: table;
+	width: 100%;
+	box-sizing: border-box;
+}
+.tablaCentrada {
+	text-align: center;
+	margin: 0 auto 22px;
+	margin: 0 -3px;
+
+
+	.item{
+		padding: 0 3px 23px;
+		display:inline-table;
+	}
+}
+
+.fila{
+	margin: 29px 0;
+}
+
+.margenCadaTresLi li{
+	margin-bottom: 4px;
+	font-size: 14px;
+}
+
+.margenCadaTresLi li:before{
+	color: @c-linkHover;
+}
+
+.margenCadaTresLi li:nth-child(3n){
+	margin-bottom: 20px;
+}
+
+.margenBottom{
+	margin-bottom: 40px;
+}
+
+.celda{
+	display: inline-table;
+	padding: 0 0 20px 0;
+	position: relative;
+	vertical-align: top;
+	table-layout: fixed;
+}
+
+.va-top{
+	vertical-align: text-top;
+}
+
+.col1 {
+	display: table;
+	margin:auto;
+}
+
+.col2{
+	width: 48%;
+}
+
+.col3{
+	width: 28%!important;
+	margin-right: 1.4%!important;
+	&:last-child{
+		margin-right: 0;
+	}
+}
+
+.col4{
+	@media(min-width:@bp2){
+		margin-right: 4%;
+		&:last-child{
+			margin-right: 0;
+		}
+	}
+}
+
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+.clearfix {
+	display: inline-block;
+}
+/* start commented backslash hack \*/
+* html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}
+/* close commented backslash hack */
+
+.textoDosColumnas{
+	ul{
+		margin: 0;
+		@media(max-width:@bp2){
+			padding: 0;
+
+		}
+	}
+	@media(min-width:625px){
+		column-count: 2;
+		column-gap: 5px;
+		width: 503px;
+	}
+}
+
+.ApareceEnColapsaMenu{
+	@media(min-width:@colapsaMenu){
+		display: none!important;
+	}
+}
+
+.ApareceEnMovil{
+	@media(min-width:@bp3){
+		display: none!important;
+	}
+}
+
+.ApareceEnBpDos{
+	@media(max-width:@bp2){
+		display: none!important;
+	}
+}
+
+.ApareceEnBpUno{
+	@media(max-width:@bp1){
+		display: none!important;
+	}
+}
+
+.DesapareceEnColapsaMenu{
+	@media(max-width:@colapsaMenu){
+		display: none!important;
+	}
+}
+
+.DesapareceEnMovil{
+	@media(max-width:(@bp3 - 1)){
+		display: none!important;
+	}
+}
+.desapareceEnBpDos{
+	@media(max-width:(@bp2 - 1)){
+		display: none!important;
+	}
+}
+
+.desapareceEnBpUno{
+	@media(max-width:@bp1){
+		display: none!important;
+	}
+}
+
+.float-derecha{
+	float: right;
+}
+
+.inline-table{
+	display: inline-table;
+}
+
+.oculto {
+	display: none!important;
+}
+
+.invisible{
+	visibility: hidden!important;
+}
+.relativo {
+	position: relative;
+	.linkFlotante {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		display: block;
+		z-index: 1;
+	}
+}
+
+.subrayado{
+	text-decoration: underline!important;
+}
+
+.flexStrech {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+.flex-sb {
+	@media (max-width: @bp3) {
+		width: 100%;
+	}
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.justify-content-center{
+	justify-content: center!important;
+}
+.justify-content-star{
+	justify-content: flex-start!important;
+}
+
+.ligth{
+	font-weight: lighter;
+}
+
+.toggleTarget{
+	display: none;
+}
+
+.bold{
+	font-weight: bold!important;
+}

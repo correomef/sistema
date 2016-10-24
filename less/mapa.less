@@ -1,0 +1,87 @@
+
+/*-- mapa.less --*/
+
+.inputFlotante {
+  position: fixed!important;
+  z-index: 3;
+  width: 71% !important;
+  top: 31px;
+  padding: 15px;
+}
+
+
+.mapa {
+
+	display: none;
+	button {
+	  box-shadow: inset 0px 1px 0px 0px #54a3f7;
+	  background: linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#007dc1', endColorstr='#0061a7', GradientType=0);
+	  background-color: #007dc1;
+	  border-radius: 3px;
+	  border: 1px solid #124d77;
+	  display: inline-block;
+	  cursor: pointer;
+	  color: #ffffff;
+	  font-size: 13px;
+	  padding: 6px 24px;
+	  text-decoration: none;
+	  text-shadow: 0px 1px 0px #154682;
+	}
+	button:hover {
+	  background: linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0061a7', endColorstr='#007dc1', GradientType=0);
+	  background-color: #0061a7;
+	}
+	h3, button {
+	  display: inline;
+	  margin-top: 60px;
+	}
+	.fondo, #mapCanvas {
+	  width: 100%;
+	  left: 0;
+	}
+	#mapCanvas {
+	  height: 100%;
+	  display: block;
+	  position: absolute;
+	  z-index: 1;
+	}
+	.fondo {
+		position: fixed;
+		z-index: 2;
+		top: 0;
+		padding: 39px;
+		background-color: #000;
+		color: #fff;
+		padding: 42px 0;
+		text-align: center;
+		div {
+		  text-align: center;
+		  padding: 11px;
+		  display: inline-block;
+		}
+	}
+	#infoPanel {
+		float: left;
+		margin-left: 10px;
+		div {
+			margin-bottom: 5px;
+		}
+	}
+
+	.mapCanvasOptions{
+	  display:none;  height: 300px; width: 100%;
+	}
+
+	.datosSede{
+	  max-width: 284px;
+
+	  p,h2,h3{
+	    margin: 0;
+	    font-size: 13px;
+	  }
+	}
+}
+
+

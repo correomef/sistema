@@ -1,0 +1,164 @@
+
+/*-- Fuentes --*/
+@font-face {
+  font-family: 'robotomedium';
+  src: url('fuentes/Roboto-Medium-webfont.eot');
+  src: url('fuentes/Roboto-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+  url('fuentes/Roboto-Medium-webfont.woff') format('woff'),
+  url('fuentes/Roboto-Medium-webfont.ttf') format('truetype'),
+  url('fuentes/Roboto-Medium-webfont.svg#robotomedium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+    font-family: 'roboto_condensedregular';
+    src: url('fuentes/RobotoCondensed-Regular-webfont.eot');
+    src: url('fuentes/RobotoCondensed-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fuentes/RobotoCondensed-Regular-webfont.woff') format('woff'),
+         url('fuentes/RobotoCondensed-Regular-webfont.ttf') format('truetype'),
+         url('fuentes/RobotoCondensed-Regular-webfont.svg#roboto_condensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@charset "UTF-8";
+
+@font-face {
+  font-family: "cuerdos2016";
+  src:url("fuentes/cuerdos2016.eot");
+  src:url("fuentes/cuerdos2016.eot?#iefix") format("embedded-opentype"),
+    url("fuentes/cuerdos2016.woff") format("woff"),
+    url("fuentes/cuerdos2016.ttf") format("truetype"),
+    url("fuentes/cuerdos2016.svg#cuerdos2016") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "cuerdos2016" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "cuerdos2016" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  vertical-align: bottom;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook:before {
+  content: "\62";
+}
+.icon-twitter:before {
+  content: "\63";
+}
+.icon-instagram:before {
+  content: "\64";
+}
+.icon-youtube:before {
+  content: "\65";
+}
+.icon-lupa:before {
+  content: "\66";
+}
+.icon-r:before {
+  content: "\67";
+}
+.icon-triangulot:before {
+  content: "\69";
+}
+.icon-triangulr:before {
+  content: "\6a";
+}
+.icon-cruz:before {
+  content: "\68";
+}
+.icon-next:before {
+  content: "\6d";
+}
+.icon-prev:before {
+  content: "\6e";
+}
+.icon-scrolltop:before {
+  content: "\6b";
+}
+.icon-cruz2:before {
+  content: "\6c";
+}
+.icon-user:before {
+  content: "\6f";
+}
+.icon-carrito:before {
+  content: "\61";
+}
+.icon-angle-down:before {
+  content: "\70";
+}
+
+
+
+a {
+  text-decoration: none;
+  color: @c-link;
+  transition: all .3s;
+  &:hover {
+    color: @c-linkHover;
+  }
+}
+
+h1, .h1 {
+  font-size: @h1Size;
+  color: @c-h1;
+  font-family: @fuenteSecundaria;
+  font-weight: normal;
+  @media (min-width:@bp2) {
+    font-size: @h1Size;
+  }
+}
+
+h2, .h2{color: @c-h2; font-size: @h2Size; font-weight: lighter;
+}
+
+h3, .h3{color: @c-h3; font-size: @h3Size; margin: 5px 0; padding: 0;
+}
+
+h4, .h4{color: @c-h4; font-size: @h4Size; margin: 0 0 0.68em 0; padding: 0;
+}
+
+h5, .h5{color: @c-h5; font-size: @h5Size; padding: 0 0 15px 0;
+}
+h6, .h6{color: @c-h6; font-size: @h6Size; font-weight: lighter;line-height: 1em; margin: 20px 0;
+}
+
+.tituloEnSingle{
+  font-size: 40px;
+  text-transform: uppercase;
+  @media(min-width:@bp2){
+    padding-top: 40px;
+  }
+}
+
+p {
+  margin: 0 0 .67em 0;
+  color:@c-p;
+  font-weight: lighter;
+  font-size: 1.17em;
+  font-family: @fuenteSecundaria;
+}

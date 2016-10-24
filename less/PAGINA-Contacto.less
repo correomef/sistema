@@ -1,0 +1,152 @@
+#paginaContacto{
+	font-size: 3.1vw;
+	padding-bottom: 1em;
+	.fondoGeneral();
+	@media(min-width:@bp3){
+		padding-top: 2.8093em;
+		font-size: 0.7em;
+	}
+	@media(min-width:@bp1){
+		font-size: 1em;
+	}
+	@media(min-width:@bphd){
+		font-size: 1vw;
+	}
+
+	.contenedor{
+		flex-wrap: wrap;
+		display: flex;
+		justify-content: space-between;
+		align-items: stretch
+	}
+
+	.celda{
+		text-align: left;
+	}
+	.iconoTelefono{
+		vertical-align: middle;
+		width: 1.64em;
+	}
+
+
+	h1, h2, h3, p{
+		font-family: @fuenteSecundaria;
+		color: #51504f;
+	}
+	h1, h2, h3{
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+	p{
+		font-size: 1.0394em;
+		@media(min-width:@bp3){
+			font-size: 1.6394em;
+		}
+	}
+	h2{
+		color: #000;
+		@media(max-width:@bp3){
+			margin-bottom: 0;
+		}
+		font-size: 1.3244em;
+		@media(min-width:@bp3){
+			font-size: 2.7244em;
+			margin: 0;
+		}
+	}
+	h1{
+		color: #000;
+		margin: 0;
+		font-size: 2.4548em;
+		font-weight: normal;
+	}
+	h3{
+		font-size: 1.9083em;
+	}
+	.formulario{
+		padding: 0;
+		margin: 0;
+		@media(min-width:@bp3){
+			width: 92.4%;
+		}
+		input, select, textarea{
+
+			border-radius: 0.3em;
+			font-size: 1em;
+			background: #fff;
+
+		}
+		input{
+			height: 2.4080em;
+			margin-bottom: 0.4682em;
+			padding-left: 1em;
+		}
+		textarea{
+			padding-left: 1em;
+			height: 4.0802em;
+		}
+		.enviar{
+			width: 100%;
+
+			.send{
+				.botonGeneral();
+				display: inline-block!important;
+				float: right;
+				font-size: 1.6em;
+			}
+			
+
+		}
+	}
+
+	.infoContacto{
+		width: 100%;
+		font-size: 1.4em;
+		@media(min-width:@bp3){
+			width: 33.8em;
+			font-size: 1.2em;
+		}
+		@media(min-width:@bp1){
+			font-size: 1.4em;
+		}
+	}
+	.mapaContenedor{
+		background: #fff;
+		padding: 0.6066em 1.3377em;
+		border: 3px solid #c7c7c7;
+		position: relative;
+		width: 100%;
+		box-sizing: border-box;
+		margin: 0 0 1em 0;
+		display: flex;
+		flex-wrap: wrap;
+		margin: 1em 0 0;
+		@media(min-width:@bp3){
+
+			width: 29.4em;
+			//height: 39.5em;
+			margin: 8.7em 0 4.8em 0;
+		}
+		iframe {
+			width: 100%;
+			height: 22em;
+			@media(min-width:@bp3){
+				width: 44.6em;
+				height: 290px;
+			}
+			@media(min-width:@bp1){
+				height: 450px;
+			}
+		}
+		.mapa{
+			width: 100%;
+			height: 32em;
+			@media(min-width:@bp3){
+				height: 91%;
+				
+			}
+		}
+
+	}
+
+}

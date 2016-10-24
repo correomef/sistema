@@ -1,0 +1,134 @@
+
+.galeria{
+
+	position: relative;
+
+
+
+	img{
+		display: block;
+		width: 100%;
+	}
+	a{
+		position: relative;
+		display: block;
+	}
+	.copete{
+		width: 100%;
+		text-align: center;
+		color: #fff;
+		padding: 0.7381em 1.7482em;
+		position: absolute;
+		top: 0;
+		left: 0;
+		box-sizing: border-box;
+		p{
+			font-family: @fuenteSecundaria;
+			font-stretch: condensed;
+			color: #fff;
+			font-weight: bold;
+			font-size: 1em;
+			text-align: left;
+			margin-bottom: 0;
+		}
+		.galeria-titulo{
+			text-transform: uppercase;
+		}
+		.galeria-descripcion{
+			opacity: 0.8;
+		}
+	}
+	p.titulo, p.descripcion {
+		font-family: @fuenteSecundaria;
+		font-weight: normal;
+		margin-bottom: 0;
+		font-size: 1em;
+		color: #000;
+	}
+	p.titulo{
+		font-size: 1.3em;
+		text-align: center;
+		text-transform: uppercase;
+		margin: 0.6em 0;
+	}
+
+	.vermasGaleria{
+		.botonGeneral();
+		width: 33%;
+		margin-top: 1em;
+	}
+
+}
+
+.galeria-video a.imagen:after{
+	@width:4.48em;
+	@height: 3.13em;
+	content: '';
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: @width;
+	margin-left: -@width / 2;
+	margin-top: -@height / 2;
+	height: @height;
+	background-image: url(img/galeria-video-iconoVideo.jpg);
+	background-size: contain;
+	border-radius: @width/4;
+	opacity: 0.7;
+	filter: saturate(0);
+	transition: opacity 0.5s;
+}
+.galeria-video a.imagen:hover:after{
+	opacity: 1;
+	filter: saturate(1);
+}
+
+
+.galeriaDestacados-inicio{
+	font-size: 1.09vw;
+	text-align: center;
+	background-color: #fff;
+	padding: 0.84em 0 5.84em;
+	@media(min-width:@bp3){
+		padding: 2.84em 0 2.14em;
+		font-size: 18px;
+	}
+	.contenedor{
+
+		justify-content: space-between;
+		display: flex;
+		flex-wrap: wrap;
+		align-items: flex-start;
+
+
+	}
+
+	.galeria{
+		margin-top: 1em ;
+		width: 48.5%;
+		img{
+			border: 2px solid #d2d2d2;
+		}
+		@media(min-width:@bp1){
+			margin-top: 0;
+			width: 24.8%;
+		}
+
+
+		a{
+			display: block;
+		}
+
+	}
+	.galeria:first-child{
+		width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+		img{
+			border: 2px solid transparent;
+		}
+		@media(min-width:@bp1){
+			width: 47.5%;
+		}
+	}
+}

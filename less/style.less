@@ -1,0 +1,266 @@
+/*
+Theme Name: sistema
+Author: MEF
+Author URI: http://mefmultimedia.net/
+Description:Mef.
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl.html
+Text Domain: mef
+Version: 2.5v
+*/
+
+/*COLORES*/
+
+
+/* @import (less) "ed-grid.css"; */
+@import 'normalize';
+@import 'variables';
+@import 'loader';
+@import 'header';
+@import 'fuentes';
+@import 'footer';
+@import 'modal';
+@import 'slider';
+@import 'fuentes';
+@import 'animaciones';
+@import 'formulario';
+@import 'menu';
+@import 'opcionesADMIN';
+@import 'buscador';
+@import 'breadcrums';
+@import 'paginacion';
+@import 'compartir';
+@import 'carrito';
+@import 'helppers';
+@import 'idiomaPPQTRANS';
+@import 'wpEditorCss';
+@import 'galeria.less';
+@import 'PAGINA-single.less';
+@import 'pagina-gracias.less';
+@import 'pagina-inicio.less';
+@import 'PAGINA-Contacto.less';
+@import 'PAGINA-galeria.less';
+@import 'pagina-nosotros.less';
+
+
+.wp-caption,
+.wp-caption-text,
+.gallery-caption,
+.bypostauthor{
+	color: rgba(175, 58, 57, 0.48);
+}
+
+.mapCanvasOptions{
+	display: none;
+}
+
+html{
+	color:@c-html;
+	font-size: @bodyFontSize;
+	font-family: @fuentePricipal;
+	background-color: #000;
+}
+
+body{
+	background-color: @c-body;
+}
+
+body.wp-admin{
+	overflow: auto;
+}
+
+.contenedor {
+	position: relative;
+	//padding: @paddingMargenEnMovil;
+	width: @ContenedorSizeEnMovil;
+	margin: 0 auto;
+
+	@media (min-width: @bp3) {
+		padding: 0;
+		width:@Ancho_Contenedor2;
+	}
+	@media (min-width: @bp1) {
+		width:@Ancho_Contenedor1;
+	}
+	@media (min-width: @bphd) {
+		width:@Ancho_Contenedor_hd;
+	}
+
+}
+
+aside{
+	position: relative;
+}
+
+
+body.wp-admin{
+	background-color: inherit;
+}
+
+.sticky-menu #adminmenuwrap {
+	position: fixed;
+	min-height: 1080px;
+}
+
+
+article{
+	margin: 0 auto;
+	position: relative;
+	width: 100%;
+	padding: 0;
+}
+
+article#emprendimientos{
+	padding: 10px;
+}
+
+.apretadorServicios, .apretadorContacto{
+	padding: 0 2%;
+	@media(min-width:@colapsaMenu){
+		padding: 0 67px;
+
+	}
+}
+
+.apretadorServicios{
+	p{
+		font-size: 15.74px;
+		line-height: 1.5em;
+	}
+	b, strong {
+		font-weight: normal;
+	}
+}
+
+.apretadorContacto{
+	@media(min-width:@bp1){
+		padding: 0 10px 0 67px;
+	}
+	.celda{
+		width: 100%;
+		@media(min-width:@colapsaMenu){
+			width: 49%;
+			vertical-align: top;
+		}
+
+
+		p{
+			font-size: 17.74px;
+			line-height: 1.2em;
+		}
+	}
+}
+
+.apretadorNuestraEmpresa{
+	padding: 0 26px 26px;
+	@media(min-width:@bp3){
+		padding: 0 0 34px;
+	}
+	p{
+		margin: 0;
+
+	}
+	.tituloPildora{
+		margin-top: 15px;
+	}
+}
+
+.apretadorComoComprar{
+	padding: 0 0 34px;
+	img {
+		max-width: 100%;
+		height: 100%;
+	}
+	p{
+		margin-left: 19px;
+		img{
+			vertical-align: middle;
+		}
+	}
+	ul{
+		margin: 0;
+
+	}
+}
+
+
+.entry{
+	text-align: center;
+	display: inline-block;
+	border: 3px solid #dad3d3;
+	background-color: #fff;
+	padding: 2px;
+	box-shadow: 0 7px 10px rgba(0, 0, 0, 0.15);
+	width: 236px;
+
+
+
+	h4, .verMas, span{
+		text-transform: uppercase;
+		font-size: 14.69px;
+		font-weight: bold;
+
+	}
+
+	.precio{
+		text-transform: none;
+	}
+
+	h4{
+		margin: 7px 0px 0;
+	}
+	p{
+		padding: 0 27px;
+		text-align: center;
+		overflow: hidden;
+		height: 48px;
+		position: relative;
+		z-index: 0;
+		text-transform: uppercase;
+		&:after{
+			content: '';
+			position: absolute;
+			height: 24px;
+			width: 66px;
+			background-image: linear-gradient(to right, rgba(255, 255, 255, 0) , white);
+			right: 27px;
+			top: 24px;
+			z-index: 1;
+		}
+	}
+	img{
+		display: block;
+		max-width: 100%;
+		height: 100%;
+		@media(min-width: @bp2){
+			margin-bottom: 0;
+			float: none;
+		}
+	}
+	.verMas{
+		color: #16692F;
+		float: left;
+		padding: 5px;
+		position: relative;
+		padding-left: 20px;
+		&:before{
+			content: '+';
+			position: absolute;
+			font-size: 35.07px;
+			top: 8px;
+			left: 4px;
+			line-height: 12px;
+		}
+	}
+	span{
+		padding: 5px;
+		float: right;
+
+	}
+}
+
+.wp-post-image{
+	@media(min-width: 658px){
+		float: left;
+	}
+}

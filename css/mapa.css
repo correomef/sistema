@@ -1,0 +1,91 @@
+/*-- mapa.less --*/
+.inputFlotante {
+  position: fixed!important;
+  z-index: 3;
+  width: 71% !important;
+  top: 31px;
+  padding: 15px;
+}
+.mapa {
+  display: none;
+}
+.mapa button {
+  -webkit-box-shadow: inset 0px 1px 0px 0px #54a3f7;
+          box-shadow: inset 0px 1px 0px 0px #54a3f7;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #007dc1), to(#0061a7));
+  background: -webkit-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+  background: -o-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+  background: linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#007dc1', endColorstr='#0061a7', GradientType=0);
+  background-color: #007dc1;
+  -webkit-border-radius: 3px;
+          border-radius: 3px;
+  border: 1px solid #124d77;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 13px;
+  padding: 6px 24px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #154682;
+}
+.mapa button:hover {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #0061a7), to(#007dc1));
+  background: -webkit-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+  background: -o-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+  background: linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0061a7', endColorstr='#007dc1', GradientType=0);
+  background-color: #0061a7;
+}
+.mapa h3,
+.mapa button {
+  display: inline;
+  margin-top: 60px;
+}
+.mapa .fondo,
+.mapa #mapCanvas {
+  width: 100%;
+  left: 0;
+}
+.mapa #mapCanvas {
+  height: 100%;
+  display: block;
+  position: absolute;
+  z-index: 1;
+}
+.mapa .fondo {
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  padding: 39px;
+  background-color: #000;
+  color: #fff;
+  padding: 42px 0;
+  text-align: center;
+}
+.mapa .fondo div {
+  text-align: center;
+  padding: 11px;
+  display: inline-block;
+}
+.mapa #infoPanel {
+  float: left;
+  margin-left: 10px;
+}
+.mapa #infoPanel div {
+  margin-bottom: 5px;
+}
+.mapa .mapCanvasOptions {
+  display: none;
+  height: 300px;
+  width: 100%;
+}
+.mapa .datosSede {
+  max-width: 284px;
+}
+.mapa .datosSede p,
+.mapa .datosSede h2,
+.mapa .datosSede h3 {
+  margin: 0;
+  font-size: 13px;
+}

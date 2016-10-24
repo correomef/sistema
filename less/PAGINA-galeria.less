@@ -1,0 +1,151 @@
+
+
+#pagina-galeria {
+    font-size: 3.967vw;
+
+     @media(min-width:@bp3){
+       font-size: 1em;
+    }
+    @media(min-width:@bphd){
+        font-size: 1vw;
+    }
+    .contenedorGaleria {
+        width: 100%;
+        display: inline-flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        @media(min-width:@bp3){
+            justify-content: flex-start;
+            width: calc(100% + 1em);
+            margin: 0 -1em;
+        }
+        .galeria{
+            border: 1px solid #d0d0d0;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: stretch;
+            padding: 1.9%;
+            margin: 0 0em 1em;
+            width: 48.8%;
+            font-size: 0.6em;
+            @media(min-width:@bp3){
+                padding: 1%;
+                width: 46%;
+                margin: 0 1em 1em;
+                font-size: 1em;
+
+            }
+            @media(min-width:@bp1){
+                width: 22.3%;
+            }
+            @media(min-width:@bphd){
+                width: 22.6%
+            }
+
+            p.galeria-titulo {
+                text-align: center;
+                font-size: 18px;
+                margin: 0;
+                text-transform: uppercase;
+            }
+            p, a{
+                color:#000;
+                word-wrap: break-word;
+            }
+            a{
+                margin: 0;
+            }
+
+            .texAlignCenter{
+                text-align: center;
+            }
+
+            .vermasGaleria{
+                margin: 1em auto 0;
+                align-self: flex-end;
+                width: auto;
+                color: #fff;
+            }
+        }
+
+    }
+    .headerArchive div{
+        @media(max-width:@bp3){
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+    .woocommerce-pagination{
+        margin: 0;
+    }
+}
+
+.encabesadoTexto{
+    font-size: 3.2vw;
+    @media(min-width:@bp3){
+        font-size: 18px;
+        margin-left: 3.6em;
+    }
+    .page-title{
+        font-size: 3em;
+        text-transform: uppercase;
+        margin: 0;
+        color: #4f6f08;
+        font-weight: bold;
+        font-family: @fuenteSecundaria;
+    }
+    .page-subtitle{
+        font-size: 1.4em;
+        text-transform: uppercase;
+        margin: 0;
+        font-family: @fuenteSecundaria;
+    }
+}
+
+.spaceBetween{
+    justify-content: space-between!important;
+}
+
+.bordeMap{
+        margin-bottom: 1em;
+        padding: 1em;
+        border: 1px solid #e5e5e5;
+    #map{
+        height: 82vw;
+        width: 100%;
+        @media(min-width:@bp3){
+            height: 35vw;
+        }
+    }
+}
+
+.headerMap{
+    h1{
+        font-size: 2.1em;
+        @media(min-width:@bp3){
+            font-size: 3.1em;
+        }
+        margin-bottom: 0;
+    }
+    h2{
+        margin-top: 0;
+        font-size: 1.3em;
+        @media(min-width:@bp3){
+            font-size: 1.5em;
+
+        }
+    }
+}
+#paginaCatalogo{
+    h1{
+        text-align: center;
+    }
+
+}
+#catalogoSlider{
+    .bx-wrapper .bx-controls-direction{
+        display: block!important;
+    }
+}

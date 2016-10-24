@@ -1,0 +1,84 @@
+/*--buscador--*/
+
+.buscador{
+	padding: 30px;
+    box-sizing: border-box;
+    background-color: rgba(15, 95, 27, 1);
+    border-radius: 7px;
+    box-shadow: inset 0 0 25px rgba(0, 0, 0, 0.45);
+    background-image: linear-gradient(to bottom, #ffffff 1%, hsla(144, 98%, 19%, 1) 3%);
+    margin: 23px 0 34px;
+    @media(min-width:@colapsaMenu){
+    	margin: 20px 40px 34px;
+    }
+
+    h3{
+    	color: #fff;
+    }
+
+    select, input{
+    	border-radius: 8px;
+    	box-shadow: inset 0 0 8px #A2A2A2;
+    	outline: none;
+    	height: 34px;
+    	margin-right: 20px;
+    	margin-bottom: 10px;
+    	text-transform: uppercase;
+    	border: 0;
+    	color: #adabb2;
+    	width: 100%;
+    	padding: 0 10px;
+    	box-sizing: border-box;
+    	@media(min-width:@colapsaMenu){
+    		width: 186px;
+    	}
+    }
+
+    select{
+		-webkit-appearance: none;
+		-moz-appearance:    none;
+		appearance: none;
+		background-image: url(img/select-flecha.jpg);
+		background-position: right top;
+		background-size: contain;
+		background-repeat: no-repeat;
+		padding: 0 34px 0 10px;
+		option:disabled{
+			display: none;
+		}
+	}
+	button {
+	    background-color: #1bbd28;
+	    border: none;
+	    color: #fff;
+	    text-transform: uppercase;
+	    padding: 4px 23px;
+	    border-radius: 5px;
+	    box-shadow: inset 0 0 13px rgba(12, 64, 9, 0.66),;
+	    background-image: linear-gradient(to bottom, #ffffff 0%, #00D011 9%);
+	}
+}
+
+.sombra {
+    position: relative;
+    z-index: 0;
+    &:before, &:after {
+        content: "";
+        position: absolute;
+        z-index: -2;
+        bottom: 15px;
+        width: 10%;
+        height: 20%;
+        max-width: 300px;
+        max-height: 100px;
+        box-shadow: 0 15px 31px rgba(0, 0, 0, 1);
+    }
+    &:before {
+      left: 60px;
+      transform: rotate(5deg);
+    }
+    &:after {
+      right: 60px;
+      transform: rotate(-5deg);
+    }
+}

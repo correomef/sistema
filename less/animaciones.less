@@ -1,0 +1,113 @@
+/*--Animaciones--*/
+
+@keyframes mueveDeLadoAlado{
+  0%   { left:0 ; opacity: 0; }
+  40%  { opacity: 1; }
+  60%  { opacity: 1; }
+  100% { left:75% ; opacity: 0; }
+
+}
+
+@keyframes inSlideUp{
+  0%   { visibility: hidden; transform: translate(0, 70px); opacity: 0; }
+  100% { visibility: visible; transform: translate(0, 0); opacity: 1; }
+}
+
+@keyframes inSlideRight{
+  0%   { visibility: hidden; transform: translate(30px, 0); opacity: 0; }
+  100% { visibility: visible; transform: translate(0, 0); opacity: 1; }
+}
+
+@keyframes achicando{
+  0%   {   transform: scale(0.8);  ;opacity: 0; }
+  20%  {   opacity: 1; }
+  100% {  transform: scale(1);  }
+
+}
+
+@keyframes blur{
+  0%  { filter: blur(105px);}
+  20% { filter: blur(0);}
+}
+
+@keyframes captionSlide {
+ from { transform: translate(-200px, 0); opacity: 0; }
+   to { transform: translate(0, 0);      opacity: 1; }
+}
+
+@keyframes fadeIn {
+ from { visibility: hidden; opacity: 0; }
+   to { visibility: visible; opacity: 1; }
+}
+
+@keyframes tooltipSlide {
+ from { transform: translate(-50px, 0); opacity: 0; }
+   to { transform: translate(0, 0);      opacity: 1; }
+}
+
+@keyframes slideDown {
+ from { visibility: hidden; transform: translate(0, -100px); opacity: 0; }
+   to { visibility: visible; transform: translate(0, 0);      opacity: 1; }
+}
+
+@keyframes fadeOut {
+ from { opacity: 1; }
+   to { opacity: 0; }
+}
+
+@keyframes fadeInOut {
+  from{ opacity: 0.3;}
+  to{opacity: 1}
+}
+.active-animation{
+  animation: achicando 5s ease-in-out backwards;
+}
+
+.blur{
+  animation: blur 5s ease-in-out backwards;
+}
+
+.fadeOut {
+   animation: fadeOut 0.5s 1 ease forwards;
+}
+.fade.in {
+  opacity: 1;
+}
+
+.zoomHover{
+  transition: all 0.3s;
+}
+
+.zoomHover:hover{
+  transform: scale(1.05);
+}
+
+.slideDown{
+  animation: slideDown 1s ease 1 forwards;
+}
+
+.fadeIn{
+  display: block!important;
+  animation: fadeIn 1s ease 1 forwards;
+}
+
+.inSlideUp{
+  animation: inSlideUp 1s ease 1 forwards;
+
+}
+.inSlideRight{
+  display: block!important;
+  animation: inSlideRight 1s ease 1 forwards;
+
+}
+
+.fadeInOut{
+  animation: fadeInOut 1s linear infinite alternate;
+}
+
+.instantaneo{
+  display: block!important;
+  visibility: visible!important;
+  opacity: 1!important;
+  pointer-events: auto!important;
+}

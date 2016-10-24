@@ -1,0 +1,19 @@
+/*-- Newsletter --*/
+.Newsletter {
+  margin: 20px auto;
+  height: 192px;
+  border: 1px solid #e3e4e4;
+  background-color: #fbf7f6;
+  padding: 0px 13px;
+  vertical-align: top;
+  position: relative;
+}
+.Newsletter input {
+  width: 100%;
+  margin: 7px 0;
+}
+.sideNewsletter {
+  display: table-cell;
+  position: relative;
+  padding-right: 10px;
+}

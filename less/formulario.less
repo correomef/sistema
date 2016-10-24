@@ -1,0 +1,278 @@
+/*--Formulario--*/
+
+form{
+		position: relative!important; // importante para detectar .send boton
+	}
+
+	#formularioEntrada{
+		padding: 0 20px;
+	}
+
+	.formulario{
+		margin-top: 10px;
+		padding: 0 0 20px 0;
+		max-width: 653px;
+		margin: auto;
+		@media(min-width:@colapsaMenu){
+			padding: 13px;
+			width: auto;
+		}
+		select{
+			display: block;
+			width: 100%;
+		}
+		.celda{
+			width: 100%;
+			@media(min-width:@bp2){
+				width: 48%;
+			}
+		}
+		form{
+		position: relative;
+		.celda{
+
+			width: 100%;
+			margin: 0;
+			padding: 0;
+			@media(min-width:1293px){
+				width: 49%;
+				margin-right: 1.6%;
+			}
+		}
+
+	}
+	label{
+		display: block;
+		text-align: left;
+		@media(min-width:@bp2){
+			display: inline-block;
+			text-align: right;
+
+
+		}
+
+		&:after{
+			content: ':';
+		}
+	}
+	input, select{
+		margin-bottom: 20px;
+
+	}
+
+	textarea {
+		height: 127px;
+	}
+	input, textarea{
+		width: 100%;
+		border: 2px solid #ebeced;
+		box-sizing: border-box;
+		background-color: rgba(255, 255, 255, 0.7);
+		font-weight: 300;
+		font-size: 15px;
+		padding: 2px 6px;
+
+		&:active,&:focus{
+			outline: 0;
+
+		}
+		@media(min-width:@bp2) and (max-width:@bp1){
+			padding: 0;
+		}
+	}
+
+	.obligatorio {
+		position: relative;
+
+	}
+
+	.leyendaObligatorios{
+
+		text-align: left;
+		width: 100%;
+		padding: 7px 0;
+	}
+
+
+
+
+	textarea{
+		height: 61px;
+	}
+
+	input, textarea{
+		width: 100%;
+	}
+
+	.estado{
+		color: black;
+	}
+
+
+	.woocommerce form.checkout_coupon, .woocommerce form.login, .woocommerce form.register{
+		border: none;
+		padding: 0 20px;
+		margin: 0;
+		text-align: left;
+		border-radius: 5px;
+	}
+
+	h1{
+		font-size: 30.73px;
+		font-weight: normal;
+		color: #0a5a20;
+	}
+
+	p{
+		margin: 0 0 20px;
+		font-size: 14.5px;
+		text-align: left;
+		display: block;
+		font-weight: normal;
+	}
+
+	.terminosYcondiciones{
+		overflow: auto;
+		height: 50px;
+		background-color: #fff;
+		border: 1px solid #9C9C9C;
+		padding: 20px;
+	}
+
+	h2, h3{
+		font-family: @fuentePricipal, sans-serif;
+	}
+
+	h2{
+		font-size: 27.26px;
+		font-weight: bold;
+		color: #ffe21e;
+		background-image: -webkit-radial-gradient(at center, #ffe21e, #104420);
+		background-image: radial-gradient(at center, rgb(151, 183, 46) -25%, rgba(103, 128, 110, 0) 63%);
+		margin: 6px 0 9px 0;
+		line-height: 1em;
+		text-transform: uppercase;
+		text-align: center;
+		padding: 21px;
+		background-color: #104420;
+	}
+
+	h3{
+		font-size: 15.98px;
+		font-weight: bold;
+		color: #104420;
+		text-transform: uppercase;
+	}
+
+
+	h4{
+		font-size: 18.5px;
+		font-weight: normal;
+		color: #0a5a20;
+		line-height: 1em;
+		margin: 19px 0 4px 0;
+	}
+	h5{
+		font-size: 18.5px;
+		font-weight: 300;
+		color: #0a5a20;
+		padding: 0;
+		margin: 13px 0 0 0;
+		line-height: 1em;
+	}
+	h6{
+		font-size: 14.69px;
+		font-weight: normal;
+		color: #000;
+		padding: 0;
+		margin: 0;
+		line-height: 1em;
+		margin: 23px 0 16px 0;
+	}
+	.celdaDireccion{
+		display: inline-block;
+		width: 32.3%;
+	}
+
+	.celda{
+		vertical-align: top;
+		width: 100%;
+		padding: 0;
+		@media(min-width:@colapsaMenu){
+			width: 48.2%;
+			margin-right: 20px;
+
+		}
+		&:nth-child(2n+2){
+			margin-right: 0;
+		}
+	}
+	.info{
+		width: 96%;
+		padding: 2%;
+		@media(min-width:@colapsaMenu){
+			width: 363px;
+		}
+
+	}
+	input, select{
+		height: 32px;
+	}
+	input, select, textarea{
+
+		border: 1px solid #aaa;
+		box-sizing: border-box;
+	}
+
+}
+
+.botonEnviar{
+	background-image: url(img/boton-enviar.jpg)!important;
+	border-radius: 0!important;
+	text-transform: uppercase!important;
+	color: #fff!important;
+	text-shadow: 2px 2px 5px #000!important;
+	font-size: 25px!important;
+	font-weight: normal!important;
+	height: 32px;
+	padding: 1px 46px 0!important;
+	margin-top: 15px!important;
+	width: 79px;
+	cursor: pointer;
+	@media(min-width:@bp3){
+		margin-top: 0!important;
+		margin-left: 22px!important;
+		float: right;
+	}
+}
+
+footer .botonEnviar, .apretadorContacto .botonEnviar, .modal .botonEnviar{
+	background-image: linear-gradient(to bottom, #ffffff 0%, #2C6831 9%);
+
+}
+
+
+form .has-error {
+	box-shadow: inset 0 0 13px @c-hasError;
+	color: #000;
+}
+
+.enviar{
+	margin-top: 10px;
+}
+
+form .enviar button,
+form .enviar .estado {
+	vertical-align: middle;
+}
+
+form .enviar .estado {
+	display: table-cell;
+	color: #000;
+	font-weight: 300;
+}
+.estado * {
+	display: none;
+}
+
+
