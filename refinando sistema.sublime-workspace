@@ -1,0 +1,1854 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"middle"
+			],
+			[
+				"Sus",
+				"Suscribite"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"idi",
+				"idioma〔function〕"
+			],
+			[
+				"hi",
+				"hide〔function〕"
+			],
+			[
+				"j",
+				"justify"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"fie",
+				"$fields〔variable〕"
+			],
+			[
+				"desapa",
+				"DesapareceEnMovil\t helppers.less"
+			],
+			[
+				"desa",
+				"DesapareceEnMovil\t helppers.less"
+			],
+			[
+				"print_r",
+				"print_r"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"each",
+				"each\t$.each()"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"type",
+				"typeof〔keyword〕"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"tr",
+				"trigger\t.trigger()"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			],
+			[
+				"swi",
+				"switch\tswitch …"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"is_pro",
+				"is_product〔function〕"
+			],
+			[
+				"idiom",
+				"idioma('Name"
+			],
+			[
+				"backgc",
+				"background-color"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"To",
+				"toggleTarget\t helppers.less"
+			],
+			[
+				"flexs",
+				"flex-sb\t helppers.less"
+			],
+			[
+				"win",
+				"window).width"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"key",
+				"key_exists〔function〕"
+			],
+			[
+				"opciones",
+				"$opcionesArray〔variable〕"
+			],
+			[
+				"bp",
+				"bp1\t variables.less"
+			],
+			[
+				"opcio",
+				"$opcionesArray〔variable〕"
+			],
+			[
+				"fxw",
+				"fxw-w\tflex-wrap: wrap;"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fo",
+				"for\tfor …"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"conte",
+				"contenedor"
+			],
+			[
+				"chi",
+				"children〔function〕"
+			],
+			[
+				"he",
+				"height\t.height()"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"ea",
+				"each\t$.each()"
+			],
+			[
+				"opc",
+				"$opciones〔variable〕"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"array",
+				"array〔keyword〕"
+			],
+			[
+				"cantida",
+				"$cantidad〔variable〕"
+			],
+			[
+				"fuen",
+				"fuentePricipal\t variables.less"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"c",
+				"c2\t variables.less"
+			],
+			[
+				"teal",
+				"text-align"
+			],
+			[
+				"la",
+				"label\t element"
+			],
+			[
+				"fl",
+				"flex-end"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"df",
+				"d-f\tdisplay: flex;"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"che",
+				"checkout_fields"
+			],
+			[
+				"td",
+				"td\ttext-decoration: ${1:none};"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"at",
+				"attr\t.attr() - single"
+			],
+			[
+				"mouse",
+				"mouseleave\t.mouseleave()"
+			],
+			[
+				"ins",
+				"instantaneo"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"f",
+				"foreach\tforeach …"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"ico",
+				"icon-triangulr\t styles.css"
+			],
+			[
+				"c-l",
+				"c-linkHover\t variables.less"
+			],
+			[
+				"des",
+				"DesapareceEnMovil\t helppers.less"
+			],
+			[
+				"icon-",
+				"icon-user\t fuentes.less"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"envio",
+				"envioSelectoImg"
+			],
+			[
+				"typ",
+				"typeof〔keyword〕"
+			],
+			[
+				"cur",
+				"current〔function〕"
+			],
+			[
+				"op",
+				"opciones"
+			],
+			[
+				"select",
+				"select"
+			],
+			[
+				"sw",
+				"switch"
+			],
+			[
+				"slider",
+				"sliderEntrada"
+			],
+			[
+				"encode",
+				"json_encode"
+			],
+			[
+				"java",
+				"fdf_add_doc_javascript"
+			],
+			[
+				"jso",
+				"json_encode〔function〕"
+			],
+			[
+				"galer",
+				"$galeriasDeVariciones〔variable〕"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"arrap",
+				"array_push〔function〕"
+			],
+			[
+				"o",
+				"oculto\t helppers.less"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"con",
+				"con\tconsole.log()"
+			],
+			[
+				"get_attach",
+				"wp_get_attachment_image_src"
+			],
+			[
+				"get_atta",
+				"wp_get_attachment_thumb_url"
+			],
+			[
+				"get_imag",
+				"wp_get_attachment_image"
+			],
+			[
+				"get_thub",
+				"get_the_post_thumbnail"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"swit",
+				"switchColor"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"is",
+				"is_product"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"ou",
+				"outerWidth"
+			],
+			[
+				"par",
+				"parseInt〔function〕"
+			],
+			[
+				"alto",
+				"altoImagen"
+			],
+			[
+				"fa",
+				"fadeIn(700"
+			],
+			[
+				"has_po",
+				"has_post_thumbnail"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"the_co",
+				"the_content"
+			],
+			[
+				"strip",
+				"strip_tags〔function〕"
+			],
+			[
+				"is_tem",
+				"is_page_template"
+			],
+			[
+				"boton",
+				"botonSimple\t carrito.less"
+			],
+			[
+				"Co",
+				"Codigo"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"valida",
+				"validaContinuar〔variable〕"
+			],
+			[
+				"nombre",
+				"nombreDeEnvio〔variable〕"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"sh",
+				"show"
+			],
+			[
+				"php",
+				"phpinfo〔function〕"
+			],
+			[
+				"jc",
+				"jc-sb\tjustify-content: space-between;"
+			],
+			[
+				"tex",
+				"text-align: 〔property〕"
+			],
+			[
+				"te",
+				"text-align: 〔property〕"
+			],
+			[
+				"despa",
+				"desapareceEnBpUno\t helppers.less"
+			],
+			[
+				"apare",
+				"ApareceEnBpUno\t helppers.less"
+			],
+			[
+				"de",
+				"desapareceEnBpUno\t helppers.less"
+			],
+			[
+				"Apa",
+				"ApareceEnBpUno\t helppers.less"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/LESS-build/LESS.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"vari",
+				"List LESS variables"
+			],
+			[
+				"lvaria",
+				"List stylesheet variables"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"syncviewscroll",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"jade",
+				"Set Syntax: phJade"
+			],
+			[
+				"Snippet: ",
+				"Snippet: idioma"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: vide",
+				"Snippet: <video> with legacy object"
+			],
+			[
+				"Snippet: idioma",
+				"Snippet: idioma-li"
+			],
+			[
+				"",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-form"
+			],
+			[
+				"modal",
+				"Snippet: bs3-modal"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ftp",
+				"FTPSync: Check current file"
+			],
+			[
+				"liter",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – User"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 365.0,
+		"history":
+		[
+			"npm install -g csslint",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/trabajo/sistema"
+	],
+	"file_history":
+	[
+		"/C/Users/Ferro/Google Drive/sistema/fuentes/icons-reference.html",
+		"/E/trabajo/sistema/nuevo arvhivo para github.txt",
+		"/C/Users/Ferro/AppData/Local/GitHub/TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc/new-repo/nuevo archivo.txt",
+		"/C/Users/Ferro/Google Drive/sistema/less/header.less",
+		"/C/Users/Ferro/Google Drive/sistema/header.php",
+		"/C/Users/Ferro/Google Drive/sistema/slider.php",
+		"/C/Users/Ferro/Google Drive/sistema/less/pagina-inicio.less",
+		"/C/Users/Ferro/Google Drive/sistema/less/formulario.less",
+		"/C/Users/Ferro/Google Drive/sistema/less/modal.less",
+		"/C/Users/Ferro/Google Drive/sistema/less/carrito.less",
+		"/C/Users/Ferro/Google Drive/sistema/less/PAGINA-galeria.less",
+		"/C/Users/Ferro/Google Drive/sistema/i18n-config.json",
+		"/C/Users/Ferro/Google Drive/sistema/js/mijs.js",
+		"/C/Users/Ferro/Google Drive/sistema/less/PAGINA-single.less",
+		"/C/Users/Ferro/Google Drive/sistema/less/footer.less",
+		"/C/Users/Ferro/Google Drive/sistema/archive-catalogo.php",
+		"/C/Users/Ferro/Google Drive/sistema/nav.php",
+		"/C/Users/Ferro/Google Drive/sistema/footer.php",
+		"/C/Users/Ferro/Desktop/D3PD1.3/D3P Dadiva 1.3/formato para codigo.txt",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/content-single-product.php",
+		"/C/Users/Ferro/Google Drive/sistema/single.php",
+		"/C/Users/Ferro/Google Drive/sistema/less/variables.less",
+		"/C/Users/Ferro/Google Drive/sistema/core/theme-options/option-settings.php",
+		"/C/Users/Ferro/Google Drive/sistema/locales.php",
+		"/C/Users/Ferro/Google Drive/sistema/less/menu.less",
+		"/C/Users/Ferro/Google Drive/sistema/less/slider.less",
+		"/C/wamp/www/Luxor/mail-it.php",
+		"/C/Users/Ferro/Google Drive/sistema/less/galeria.less",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/templates/content-product.php",
+		"/C/Users/Ferro/Google Drive/sistema/less/style.less",
+		"/C/Users/Ferro/Google Drive/sistema/Contacto.php",
+		"/C/Users/Ferro/Google Drive/sistema/single-catalogo.php",
+		"/C/Users/Ferro/Google Drive/sistema/cargaMapa.php",
+		"/C/Users/Ferro/Google Drive/sistema/core/theme-options/js/option-js.js",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/content-product.php",
+		"/C/Users/Ferro/Google Drive/sistema/funciones/misFunciones.php",
+		"/C/Users/Ferro/Google Drive/sistema/novedades-inicio.php",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/single-product/related.php",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/single-product/add-to-cart/variable.php",
+		"/C/Users/Ferro/Google Drive/sistema/gracias.php",
+		"/C/Users/Ferro/Google Drive/sistema/category.php",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/cabeceras.php",
+		"/C/Users/Ferro/Google Drive/sistema/funciones/funcionesWooComerce.php",
+		"/C/Users/Ferro/Google Drive/sistema/funciones/funcionesDelTema.php",
+		"/C/Users/Ferro/Google Drive/sistema/funciones/funcionesDeAutogestion.php",
+		"/C/wamp/www/hidrohuerta/woocommerce/content-single-product.php",
+		"/C/Users/Ferro/Google Drive/sistema/less/animaciones.less",
+		"/C/Users/Ferro/Google Drive/sistema/less/opcionesADMIN.less",
+		"/C/Users/Ferro/Google Drive/sistema/css/manejadorAdminDOM.scss",
+		"/C/wamp/www/godoy/contacto.php",
+		"/C/Users/Ferro/Google Drive/pamelapiedecasas/single-eventos.php",
+		"/C/Users/Ferro/Google Drive/sistema/mi-compra.php",
+		"/C/Users/Ferro/Google Drive/pamelapiedecasas/funciones/funcionesDelTema.php",
+		"/C/Users/Ferro/Google Drive/sistema/redesSociales.php",
+		"/C/Users/Ferro/Google Drive/sistema/productos_destacados.php",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/checkout/payment.php",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/loop/price.php",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/includes/class-wc-frontend-scripts.php",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/single-product/add-to-cart/variation.php",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/checkout/form-checkout.php",
+		"/C/Users/Ferro/Google Drive/sistema/inicio.php",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/archive-product.php",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/cart/mini-cart.php",
+		"/C/Users/Ferro/Google Drive/sistema/less/helppers.less",
+		"/C/Users/Ferro/Google Drive/pamelapiedecasas/category.php",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/templates/loop/orderby.php",
+		"/C/Users/Ferro/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/Ferro/Google Drive/sistema/galeriaDestacados.php",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/includes/wc-template-functions.php",
+		"/C/wamp/www/hidrohuerta/inicio.php",
+		"/C/wamp/www/hidrohuerta/index.php",
+		"/C/Users/Ferro/Google Drive/sistema/core/theme-options/option-data.php",
+		"/C/wamp/www/Worpress/plugins/qtranslate-x/admin/js/options.js",
+		"/C/Users/Ferro/Google Drive/sistema/css/manejadorAdminDOM.css",
+		"/C/Users/Ferro/Google Drive/sistema/less/fuentes.less",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/includes/admin/class-wc-admin-profile.php",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/includes/class-wc-countries.php",
+		"/C/Users/Ferro/Google Drive/sistema/js/jquery.bxslider.js",
+		"/C/Users/Ferro/Google Drive/sistema/mail-it.php",
+		"/C/wamp/www/cuerdoscloth/enigma/js/enigma_theme_script.js",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/includes/class-wc-shipping-zone.php",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/includes/admin/class-wc-admin-settings.php",
+		"/C/wamp/www/godoy/js/main.js",
+		"/C/wamp/www/hidrohuerta/less/carrito.less",
+		"/C/wamp/www/hidrohuerta/less/opcionesADMIN.less",
+		"/C/wamp/www/hidrohuerta/core/theme-options/option-settings.php",
+		"/C/wamp/www/hidrohuerta/funciones/funcionesDeAutogestion.php",
+		"/C/wamp/www/hidrohuerta/js/mijs.js",
+		"/C/pruebanode/package.json",
+		"/C/wamp/www/hidrohuerta/funciones/funcionesWooComerce.php",
+		"/C/Users/Ferro/AppData/Roaming/Sublime Text 3/Packages/User/LESS.sublime-settings",
+		"/C/wamp/www/Worpress/plugins/Plugin-WooCommerce/view/formulario-hibrido/formulario.php",
+		"/C/wamp/www/Worpress/plugins/Plugin-WooCommerce/index.php",
+		"/C/wamp/www/Worpress/plugins/Plugin-WooCommerce/README.md",
+		"/C/wamp/www/Worpress/plugins/Plugin-WooCommerce/lib/Authorize.wsdl",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/checkout/form-billing.php",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/includes/class-wc-checkout.php",
+		"/C/wamp/www/Worpress/plugins/woocommerce-mercadopago/includes/class-wc-mercadopago-gateway.php",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/includes/admin/settings/class-wc-settings-general.php",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/includes/wc-cart-functions.php",
+		"/C/wamp/www/Worpress/plugins/woocommerce-mercadopago/wc-mercadopago.php",
+		"/C/wamp/www/Worpress/plugins/Plugin-WooCommerce/lib/ControlFraude/ControlFraude.php",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/assets/js/admin/meta-boxes-order.js",
+		"/C/wamp/www/Worpress/plugins/Plugin-WooCommerce/js/credentials.js",
+		"/C/Users/Ferro/Desktop/test.php",
+		"/C/wamp/www/Worpress/plugins/woocommerce-plugin/lib/ControlFraude/ControlFraude.php",
+		"/C/Users/Ferro/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+		"/C/Users/Ferro/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/Default.sublime-keymap",
+		"/C/Users/Ferro/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Ferro/Google Drive/sistema/less/normalize.less",
+		"/C/Users/Ferro/AppData/Roaming/Sublime Text 3/Packages/List LESS Variables/Default (Windows).sublime-keymap",
+		"/C/Users/Ferro/AppData/Roaming/Sublime Text 3/Packages/List Stylesheet Variables/Default (Windows).sublime-keymap",
+		"/C/Users/Ferro/AppData/Roaming/Sublime Text 3/Packages/List Stylesheet Variables/stylevariables.sublime-settings",
+		"/C/Users/Ferro/Desktop/D3PD1.3/D3P Dadiva 1.3/Nuevo documento de texto.txt",
+		"/C/Users/Ferro/Google Drive/sistema/js/main.js",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/includes/admin/class-wc-admin-post-types.php",
+		"/C/wamp/www/Worpress/plugins/woocommerce 2.6.4/includes/abstracts/abstract-wc-rest-posts-controller.php",
+		"/C/wamp/www/Worpress/plugins/qtranslate-x/qtranslate_widget.php",
+		"/C/wamp/www/Worpress/plugins/qtranslate-x/qtranslate_compatibility.php",
+		"/C/Users/Ferro/Google Drive/sistema/less/idiomaPPQTRANS.less",
+		"/C/Users/Ferro/Google Drive/sistema/woocommerce/single-product/product-image.php",
+		"/C/Users/Ferro/Google Drive/sistema/fuentes/styles.css",
+		"/C/wamp/www/valrot/js/mijs.js",
+		"/C/Users/Ferro/AppData/Local/Temp/Temp1_untitled-font-1.zip/icons-reference.html",
+		"/C/Users/Ferro/AppData/Local/Temp/Temp1_cuerdos2016 (1).zip/styles.css",
+		"/C/wamp/www/valrot/header.php",
+		"/C/Users/Ferro/AppData/Local/Temp/Temp1_easydropdown-master.zip/easydropdown-master/themes/easydropdown.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 271.0,
+		"where_history":
+		[
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\woocommerce",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\woocommerce",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\funciones",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\woocommerce",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\funciones",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\woocommerce",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\woocommerce",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\funciones",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\wamp\\www\\Worpress\\plugins\\Plugin-WooCommerce",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\wamp\\www\\Worpress\\plugins\\Plugin-WooCommerce",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce-mercadopago",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\wamp\\www\\Worpress\\plugins\\Plugin-WooCommerce",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\funciones",
+			"C:\\wamp\\www\\Worpress\\plugins\\Plugin-WooCommerce",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\woocommerce",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\wamp\\www\\Worpress\\plugins\\qtranslate-x",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\js",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4\\templates",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\woocommerce",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\woocommerce",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\scss",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4\\assets\\css",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce-variable-product-description",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce-variable-product-description",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\funciones",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\woocommerce",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\funciones",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\wamp\\www\\valrot",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\wamp\\www\\Worpress\\plugins\\w3-total-cache",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.6.4",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.5.5",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.5.5\\templates\\myaccount",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\funciones",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.5.5",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\funciones",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Desktop\\Nueva carpeta\\icegram",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\woocommerce\\checkout",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.5.5",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.5.5",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\woocommerce",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.5.5",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.5.5",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.5.5",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\js",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.5.5",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.5.5\\templates",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.5.5",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.5.5",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\woocommerce",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\woocommerce\\checkout",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\wamp\\www\\Worpress\\plugins\\woocommerce 2.5.5",
+			"C:\\Users\\Ferro\\Google Drive\\sistema",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\less",
+			"C:\\Users\\Ferro\\Desktop\\custom-field-suite",
+			"C:\\Users\\Ferro\\Desktop\\custom-field-suite\\templates",
+			"C:\\Users\\Ferro\\Desktop\\meta-box",
+			"C:\\Users\\Ferro\\Google Drive\\sistema\\js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"value",
+			"['imagen']",
+			"categorias-contenedor",
+			"categori",
+			".images",
+			"bannerImagen",
+			"tag",
+			"term",
+			"cat",
+			"term",
+			"locales",
+			"Locales",
+			"locales",
+			".close",
+			"close",
+			"validaYenviaMail",
+			"catalo",
+			"redes",
+			"infoGrupo",
+			"close",
+			"cerrar",
+			"infoGrupo",
+			"imagen",
+			"suscri",
+			"abreModal",
+			"suscribite",
+			"news",
+			"barra",
+			"top",
+			"slider",
+			"'opacity'",
+			"opacity",
+			"'.images",
+			"armaSliderEntrada",
+			"productosDestacados",
+			"productsD",
+			"armaSliderEntrada",
+			"swith",
+			"arma",
+			".dropdown.touch",
+			"grow",
+			".infoLogueado",
+			"<div class=\"bannerPagina\">",
+			"cabeceras.php",
+			"woocommerce_before_single_product",
+			"cabeceras",
+			"bannerPagina",
+			"woocommerce_before_single_product",
+			"related",
+			"headerArchive",
+			"contadorYpagerTop",
+			"archive",
+			".contadorYpagerTop",
+			"relate",
+			".related",
+			"related",
+			"strcmp",
+			"turito",
+			"<div class=\"saludo\">",
+			".image",
+			"flexGrow08",
+			"pageT",
+			"paget",
+			"bannerPagina",
+			"headerArchive",
+			"contacto-coordenadas",
+			"mapa",
+			"coordenadasSTR",
+			"contacto-coordenadas",
+			"manejador",
+			"conta",
+			"cabeceraEntrada",
+			"cabeceras",
+			"sliderSingle",
+			"pointer",
+			"pointer-events",
+			"pointer",
+			"    pointer-events: none;",
+			"gruposTipoB ",
+			"video",
+			"animate",
+			"video",
+			"close",
+			"logo",
+			"paginaMiCompra ",
+			"compra",
+			"compre",
+			"mi-co",
+			"BotonPago",
+			"footerTabPanel",
+			"tuOr",
+			"tuorden",
+			"buscar",
+			"page-numbers",
+			"());\n",
+			"contadorYpagerTop",
+			"head",
+			"ver",
+			"resu",
+			"vermasGaleria",
+			");\n",
+			"IdCatNov",
+			"wal",
+			"NombreUltimaCategoria",
+			"imgDestacada",
+			"h1",
+			"close",
+			"agregaClase",
+			"video",
+			".close",
+			"agregaClase",
+			"agre",
+			"agrega",
+			"slide",
+			"inici",
+			"contenedorMiniaturasSINGLE",
+			"miniaturaSIN",
+			"action_woocommerce_variation_options",
+			"variation_image_gallery",
+			"galeriaVariacion",
+			"variable_fields_js",
+			"save_variable_fields",
+			"variable_fields_js",
+			"ajaxerrors",
+			"error",
+			"choose",
+			"variations",
+			"vari"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"include ('modificaTotalYencio.php');",
+			"// include ('modificaTotalYencio.php');",
+			"include ('modificaTotalYencio.php');",
+			"@version 2.4.0",
+			"CarroDeCompras",
+			"<?php _e(",
+			"'",
+			"Dormitorios:",
+			"",
+			">",
+			"",
+			"Tucuman",
+			"Santiago del Estero",
+			"Santa Fe",
+			"Santa Cruz",
+			"San Luis -",
+			"San Juan - ",
+			"Salta - ",
+			"Rio Negro",
+			"Neuquén",
+			"Misiones",
+			"Mendoza",
+			"La Rioja",
+			"La Pampa -",
+			"Jujuy -",
+			"Formosa -",
+			"15",
+			"13",
+			"12",
+			"11",
+			"Entre Ríos -",
+			"Corrientes -",
+			"Córdoba -",
+			"Chubut -",
+			"Chaco -",
+			"Catamarca -",
+			"Capital Federal -",
+			"Buenos Aires-GBA -",
+			"Buenos Aires - ",
+			"$opciones",
+			"@movilwidth",
+			"@movilwhidth",
+			"fila",
+			"profesionales",
+			"margenSeis",
+			"}\n",
+			"}\n\n",
+			"}\n",
+			"['pagina']",
+			"['pagina']\n\t  \t\t\t\n\t            <li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t\t\t\t<li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t\t\t\t<li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t\t\t\t<li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t\t\t\t<li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t                    \n\t    \t</div> ",
+			"'p'\n\t  \t\t\t\n\t            <li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t\t\t\t<li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t\t\t\t<li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t\t\t\t<li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t\t\t\t<li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t                    \n\t    \t</div> ",
+			"<div id=\"bxslider\">\n\t  \t\t\t\n\t            <li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t\t\t\t<li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t\t\t\t<li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t\t\t\t<li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t\t\t\t<li><img src=\"<?php echo get_bloginfo('template_url');?>/img/Inicio1.jpg\"/></li>\n\t                    \n\t    \t</div> ",
+			"$opcionesGodoy",
+			"obtenerOpcionesDelTema()",
+			"responsive",
+			"Cia",
+			"Cordoba",
+			"1946",
+			"=\""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 177.0
+	},
+	"output.find_results":
+	{
+		"height": 311.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "",
+	"project": "refinando sistema.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"headee",
+				"sistema\\less\\header.less"
+			],
+			[
+				"refe",
+				"sistema\\fuentes\\icons-reference.html"
+			],
+			[
+				"header",
+				"sistema\\header.php"
+			],
+			[
+				"slider",
+				"sistema\\slider.php"
+			],
+			[
+				"headerle",
+				"sistema\\less\\header.less"
+			],
+			[
+				"mij",
+				"sistema\\js\\mijs.js"
+			],
+			[
+				"carrito",
+				"sistema\\less\\carrito.less"
+			],
+			[
+				"locale",
+				"sistema\\locales.php"
+			],
+			[
+				"options",
+				"sistema\\core\\theme-options\\option-settings.php"
+			],
+			[
+				"footerless",
+				"sistema\\less\\footer.less"
+			],
+			[
+				"nav",
+				"sistema\\nav.php"
+			],
+			[
+				"footer",
+				"sistema\\footer.php"
+			],
+			[
+				"formulario",
+				"sistema\\less\\formulario.less"
+			],
+			[
+				"option",
+				"sistema\\core\\theme-options\\option-settings.php"
+			],
+			[
+				"single",
+				"sistema\\single.php"
+			],
+			[
+				"iconref",
+				"sistema\\fuentes\\icons-reference.html"
+			],
+			[
+				"singleless",
+				"sistema\\less\\PAGINA-single.less"
+			],
+			[
+				"inicioless",
+				"sistema\\less\\pagina-inicio.less"
+			],
+			[
+				"galeria",
+				"sistema\\less\\PAGINA-galeria.less"
+			],
+			[
+				"headerless",
+				"sistema\\less\\header.less"
+			],
+			[
+				"varia",
+				"sistema\\less\\variables.less"
+			],
+			[
+				"arri",
+				"sistema\\less\\carrito.less"
+			],
+			[
+				"footerles",
+				"sistema\\less\\footer.less"
+			],
+			[
+				"head",
+				"sistema\\header.php"
+			],
+			[
+				"cons",
+				"sistema\\woocommerce\\content-single-product.php"
+			],
+			[
+				"cont",
+				"woocommerce 2.6.4\\templates\\content-product.php"
+			],
+			[
+				"funcio",
+				"sistema\\funciones\\funcionesDelTema.php"
+			],
+			[
+				"funciones",
+				"sistema\\funciones\\misFunciones.php"
+			],
+			[
+				"gracias",
+				"sistema\\gracias.php"
+			],
+			[
+				"singleles",
+				"sistema\\less\\PAGINA-single.less"
+			],
+			[
+				"galer",
+				"sistema\\less\\galeria.less"
+			],
+			[
+				"cate",
+				"sistema\\category.php"
+			],
+			[
+				"optionse",
+				"sistema\\core\\theme-options\\option-settings.php"
+			],
+			[
+				"optio",
+				"sistema\\core\\theme-options\\option-settings.php"
+			],
+			[
+				"mic",
+				"sistema\\mi-compra.php"
+			],
+			[
+				"funcione",
+				"sistema\\funciones\\funcionesDelTema.php"
+			],
+			[
+				"anima",
+				"sistema\\less\\animaciones.less"
+			],
+			[
+				"paginas",
+				"sistema\\less\\PAGINA-single.less"
+			],
+			[
+				"funciond",
+				"sistema\\funciones\\funcionesDelTema.php"
+			],
+			[
+				"he",
+				"sistema\\header.php"
+			],
+			[
+				"sty",
+				"sistema\\less\\style.less"
+			],
+			[
+				"footes",
+				"sistema\\less\\footer.less"
+			],
+			[
+				"categ",
+				"sistema\\category.php"
+			],
+			[
+				"paginales",
+				"sistema\\less\\PAGINA-galeria.less"
+			],
+			[
+				"desta",
+				"sistema\\galeriaDestacados.php"
+			],
+			[
+				"inicio",
+				"sistema\\inicio.php"
+			],
+			[
+				"anim",
+				"sistema\\less\\animaciones.less"
+			],
+			[
+				"hel",
+				"sistema\\less\\helppers.less"
+			],
+			[
+				"refere",
+				"sistema\\fuentes\\icons-reference.html"
+			],
+			[
+				"vari",
+				"sistema\\less\\variables.less"
+			],
+			[
+				"func",
+				"sistema\\funciones\\funcionesWooComerce.php"
+			],
+			[
+				"style",
+				"sistema\\less\\style.less"
+			],
+			[
+				"funcion",
+				"sistema\\funciones\\funcionesDelTema.php"
+			],
+			[
+				"heade",
+				"sistema\\less\\header.less"
+			],
+			[
+				"footerle",
+				"sistema\\less\\footer.less"
+			],
+			[
+				"mi",
+				"sistema\\js\\mijs.js"
+			],
+			[
+				"var",
+				"sistema\\less\\variables.less"
+			],
+			[
+				"menu",
+				"sistema\\less\\menu.less"
+			],
+			[
+				"men",
+				"sistema\\less\\menu.less"
+			],
+			[
+				"headeles",
+				"sistema\\less\\header.less"
+			],
+			[
+				"car",
+				"sistema\\less\\carrito.less"
+			],
+			[
+				"headerles",
+				"sistema\\less\\header.less"
+			],
+			[
+				"va",
+				"sistema\\less\\variables.less"
+			],
+			[
+				"fooles",
+				"sistema\\less\\footer.less"
+			],
+			[
+				"produ",
+				"sistema\\productos_destacados.php"
+			],
+			[
+				"iniciol",
+				"sistema\\less\\pagina-inicio.less"
+			],
+			[
+				"fun",
+				"sistema\\funciones\\funcionesDelTema.php"
+			],
+			[
+				"coreoptio",
+				"sistema\\core\\theme-options\\js\\option-js.js"
+			],
+			[
+				"foo",
+				"sistema\\footer.php"
+			],
+			[
+				"data",
+				"sistema\\core\\theme-options\\option-data.php"
+			],
+			[
+				"admin",
+				"sistema\\less\\opcionesADMIN.less"
+			],
+			[
+				"op",
+				"qtranslate-x\\admin\\js\\options.js"
+			],
+			[
+				"mail",
+				"sistema\\mail-it.php"
+			],
+			[
+				"sliderles",
+				"sistema\\less\\slider.less"
+			],
+			[
+				"footrle",
+				"sistema\\less\\footer.less"
+			],
+			[
+				"manej",
+				"sistema\\css\\manejadorAdminDOM.scss"
+			],
+			[
+				"arrito",
+				"sistema\\less\\carrito.less"
+			],
+			[
+				"",
+				"sistema\\less\\carrito.less"
+			],
+			[
+				"variabl",
+				"sistema\\less\\variables.less"
+			],
+			[
+				"carrio",
+				"sistema\\less\\carrito.less"
+			],
+			[
+				"fuentes",
+				"sistema\\less\\fuentes.less"
+			],
+			[
+				"inici",
+				"sistema\\inicio.php"
+			],
+			[
+				"carri",
+				"sistema\\less\\carrito.less"
+			],
+			[
+				"ini",
+				"sistema\\inicio.php"
+			],
+			[
+				"inic",
+				"sistema\\inicio.php"
+			],
+			[
+				"adminles",
+				"sistema\\less\\opcionesADMIN.less"
+			],
+			[
+				"funci",
+				"sistema\\funciones\\funcionesWooComerce.php"
+			],
+			[
+				"che",
+				"sistema\\woocommerce\\checkout\\form-checkout.php"
+			],
+			[
+				"carr",
+				"sistema\\less\\carrito.less"
+			],
+			[
+				"conten",
+				"woocommerce 2.6.4\\templates\\content-product.php"
+			],
+			[
+				"na",
+				"sistema\\nav.php"
+			],
+			[
+				"help",
+				"sistema\\less\\helppers.less"
+			],
+			[
+				"menule",
+				"sistema\\less\\menu.less"
+			],
+			[
+				"fuente",
+				"sistema\\less\\fuentes.less"
+			],
+			[
+				"hea",
+				"sistema\\less\\header.less"
+			],
+			[
+				"qtr",
+				"sistema\\less\\idiomaPPQTRANS.less"
+			],
+			[
+				"cariles",
+				"sistema\\less\\carrito.less"
+			],
+			[
+				"heles",
+				"sistema\\less\\header.less"
+			],
+			[
+				"header.",
+				"sistema\\less\\header.less"
+			],
+			[
+				"funete",
+				"sistema\\less\\fuentes.less"
+			],
+			[
+				"variable",
+				"sistema\\less\\variables.less"
+			],
+			[
+				"variati",
+				"sistema\\woocommerce\\single-product\\add-to-cart\\variation.php"
+			],
+			[
+				"opcione",
+				"C:\\Users\\Ferro\\Google Drive\\sistema\\less\\opcionesADMIN.less"
+			],
+			[
+				"opcio",
+				"C:\\wamp\\www\\hidrohuerta\\less\\opcionesADMIN.less"
+			],
+			[
+				"maneja",
+				"sistema\\css\\manejadorAdminDOM.scss"
+			],
+			[
+				"content",
+				"sistema\\woocommerce\\content-single-product.php"
+			],
+			[
+				"arrit",
+				"sistema\\less\\carrito.less"
+			],
+			[
+				"pagina",
+				"sistema\\pagina-cultivar.php"
+			],
+			[
+				"descu",
+				"sistema\\pagina-descubrir.php"
+			],
+			[
+				"descubri",
+				"sistema\\pagina-descubrir.php"
+			],
+			[
+				"contacto",
+				"sistema\\Contacto.php"
+			],
+			[
+				"contactoles",
+				"sistema\\less\\PAGINA-Contacto.less"
+			],
+			[
+				"manejado",
+				"sistema\\css\\manejadorAdminDOM.css"
+			],
+			[
+				"mini",
+				"sistema\\woocommerce\\cart\\mini-cart.php"
+			],
+			[
+				"opciones",
+				"sistema\\opciones.php"
+			],
+			[
+				"minica",
+				"sistema\\woocommerce\\cart\\mini-cart.php"
+			],
+			[
+				"minicar",
+				"sistema\\woocommerce\\cart\\mini-cart.php"
+			],
+			[
+				"gale",
+				"sistema\\less\\galeria.less"
+			],
+			[
+				"paginacon",
+				"sistema\\less\\PAGINA-Contacto.less"
+			],
+			[
+				"inicioles",
+				"sistema\\less\\pagina-inicio.less"
+			],
+			[
+				"des",
+				"sistema\\galeriaDestacados.php"
+			],
+			[
+				"mincart",
+				"sistema\\woocommerce\\cart\\mini-cart.php"
+			],
+			[
+				"pagsingle",
+				"sistema\\less\\PAGINA-single.less"
+			],
+			[
+				"styl",
+				"sistema\\less\\style.less"
+			],
+			[
+				"destacados",
+				"sistema\\galeriaDestacados.php"
+			],
+			[
+				"paginade",
+				"sistema\\pagina-descubrir.php"
+			],
+			[
+				"cultivar",
+				"sistema\\pagina-cultivar.php"
+			],
+			[
+				"descubrir",
+				"sistema\\pagina-descubrir.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "pamela",
+		"selected_items":
+		[
+			[
+				"pamela",
+				"C:\\Users\\Ferro\\Google Drive\\pamelapiedecasas\\pamelaPROYECTO.sublime-project"
+			],
+			[
+				"pa",
+				"C:\\Users\\Ferro\\Google Drive\\pamelapiedecasas\\pamelaPROYECTO.sublime-project"
+			],
+			[
+				"pam",
+				"C:\\Users\\Ferro\\Google Drive\\pamelapiedecasas\\pamelaPROYECTO.sublime-project"
+			],
+			[
+				"maja",
+				"C:\\wamp\\www\\00 proyectos\\majamorenaSUBLIME.sublime-project"
+			],
+			[
+				"hid",
+				"C:\\wamp\\www\\hidrohuerta\\hidrohuerta-sublime.sublime-project"
+			],
+			[
+				"hidro",
+				"C:\\wamp\\www\\hidrohuerta\\hidrohuerta-sublime.sublime-project"
+			],
+			[
+				"rpm",
+				"C:\\wamp\\www\\00 proyectos\\RPMcross-sublime.sublime-project"
+			],
+			[
+				"berar",
+				"C:\\wamp\\www\\berardi\\berardi.sublime-project"
+			],
+			[
+				"sealer",
+				"C:\\wamp\\www\\00 proyectos\\sealerboiler-SUBLIME.sublime-project"
+			],
+			[
+				"hol",
+				"C:\\wamp\\www\\holiday.sublime-workspace"
+			],
+			[
+				"pekos",
+				"C:\\wamp\\www\\00 proyectos\\PEKOS.sublime-project"
+			],
+			[
+				"",
+				"C:\\wamp\\www\\00 proyectos\\PEKOS.sublime-project"
+			],
+			[
+				"mago",
+				"C:\\wamp\\www\\magomatus\\magomatusSUBLIME.sublime-workspace"
+			],
+			[
+				"cuer",
+				"C:\\wamp\\www\\cuerdosCloth-SUBLIME.sublime-project"
+			],
+			[
+				"ro",
+				"C:\\wamp\\www\\roasenda\\roasendaSUBLIME.sublime-project"
+			],
+			[
+				"sella",
+				"C:\\wamp\\www\\sellagrietasmotosol-SUBLIME.sublime-project"
+			],
+			[
+				"ma",
+				"C:\\wamp\\www\\magomatus\\magomatusSUBLIME.sublime-workspace"
+			],
+			[
+				"ber",
+				"C:\\wamp\\www\\berardi\\berardi.sublime-project"
+			],
+			[
+				"aer",
+				"C:\\wamp\\www\\aeroDeatec\\aerodeatec SUBLIME.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

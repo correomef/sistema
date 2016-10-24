@@ -1,5 +1,44 @@
 <?php global $opcionesArray, $opciones; ?>
 
+<?php
+
+	$modulos = array(
+
+		array(
+			// palabra unica id del modulo
+			'slug' =>'cabecera',
+			// titulo que ve el usuario
+			'tiulo' =>'Header',
+
+			'secciones' => array(
+				// palabra unica id de la seccion
+				'slug' => 'barraPostMenu',
+				// titulo que ve el usuario de la seccion
+				'titulo' => 'Barra Post Menu',
+				// si es vacio se concatena los slug del modulo y de la seccion, a veces solo es necesario el nombre del modulo solamente
+				'nombreOpcion' => '',
+				// las subsecciones pueden ser dinamicas en el caso de usar las categorias de WP ():
+				// get_terms( 'product_cat', $args ) -recordar cambiar guiones medios por guiones bajosd
+				//Si es posible "agregar nuevo" declarar el arreglo vacio "array()"
+				//si es "unica" el contendor ocupa el 100%
+				'subSecciones' => array(
+					'unica',
+					),
+				'parametros' => array(
+
+				),
+				'tamanoImagen' => '',
+				'textoCabecera' => '',
+				'subSecNumeradas' => '',
+				'traducir' => '',
+				'toggleData' => '',
+				'ordenable' => '',
+				),
+			),
+
+		);
+?>
+
 <div class="wrap" id="weblizar_wrap" >
 
 	<div id="content_wrap">
